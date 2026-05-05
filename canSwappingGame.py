@@ -1,4 +1,4 @@
-from random import choice   #  (but not a free choice...)
+from random import choice
 from sys    import exit
 from time   import time
 
